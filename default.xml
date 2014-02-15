@@ -351,8 +351,9 @@
   <project path="hardware/ti/fmradio" name="CyanogenMod/android_hardware_ti_fmradio" remote="github" revision="jellybean" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="github" revision="jellybean" />
 
-  <!-- Xperia S -->
+  <!-- Sony Xperia S and ION -->
   <project path="device/sony/nozomi" name="aosp-lb-nozomi/device_sony_nozomi" remote="github" revision="slimbean" />
+  <project path="device/sony/aoba" name="aosp-lb-nozomi/device_sony_aoba" remote="github" revision="slimbean" />
   <project path="device/sony/fuji-common" name="aosp-lb-nozomi/device_sony_fuji-common" remote="github" revision="slimbean" />
   <project path="kernel/sony/msm8660" name="CyanogenMod/android_kernel_sony_msm8660" remote="github" revision="jellybean" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="jellybean" />
