@@ -327,8 +327,8 @@ this avoids merging conflicts from AOSP manifest
   <project path="kernel/sony/msm8660" name="CyanogenMod/android_kernel_sony_msm8660" remote="gh" revision="jellybean" />
   <project path="packages/apps/FmRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="gh" revision="jellybean" />
 
-<!-- Vendors 
-  <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" remote="fxp" revision="jellybean" /> -->
+<!-- Vendors -->
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="fxp" revision="jellybean" /> 
   <project path="vendor/aosp-lb" name="aosp-lb-nozomi/vendor_aosp-lb" remote="gh" revision="master" /> 
 
 <!--Device kernels 
