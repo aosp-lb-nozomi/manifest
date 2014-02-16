@@ -228,6 +228,7 @@
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
+<!--  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.1.2_r1" /> -->
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -325,7 +326,7 @@ this avoids merging conflicts from AOSP manifest
   <project path="device/sony/aoba" name="aosp-lb-nozomi/device_sony_aoba" remote="gh" revision="jellybean" />
   <project path="device/sony/fuji-common" name="aosp-lb-nozomi/device_sony_fuji-common" remote="gh" revision="polishblood-aosp" />
   <project path="kernel/sony/msm8660" name="CyanogenMod/android_kernel_sony_msm8660" remote="gh" revision="jellybean" />
-  <project path="packages/apps/FmRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="gh" revision="jellybean" />
+  <!-- <project path="packages/apps/FmRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="gh" revision="jellybean" /> -->
 
 <!-- Vendors -->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="fxp" revision="jellybean" /> 
@@ -339,7 +340,7 @@ this avoids merging conflicts from AOSP manifest
    <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="jellybean" /> -->
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" remote="cm" revision="jellybean" />
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="cm" revision="jellybean" />
-  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="jellybean" />
+  <!--<project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="jellybean" />-->
 
 <!-- Supplicant from CM10 -->
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="cm" revision="jellybean" />
