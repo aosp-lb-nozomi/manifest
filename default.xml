@@ -29,7 +29,7 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />
   <project path="device/sample" name="device/sample" />
-  <!--<project path="device/moto/common" name="device/moto/common" />
+  <project path="device/moto/common" name="device/moto/common" />
   <project path="device/moto/stingray" name="CNA/android_device_moto_stingray" remote="github" revision="jellybean" />
   <project path="device/asus/grouper" name="CNA/android_device_asus_grouper" remote="github" revision="jellybean" />
   <project path="device/moto/stingray_cdma" name="CNA/android_device_moto_stingray_cdma" remote="github" revision="jellybean" />
@@ -49,7 +49,7 @@
   <project path="device/samsung/qcom-common" name="CNA/android_device_samsung_qcom-common" remote="github" revision="jellybean" />
   <project path="device/samsung/toro" name="CNA/android_device_samsung_toro" remote="github" revision="jellybean" />
   <project path="device/samsung/toroplus" name="CNA/android_device_samsung_toroplus" remote="github" revision="jellybean" />
-  <project path="device/samsung/tuna" name="CNA/android_device_samsung_tuna" remote="github" revision="jellybean" /> -->
+  <project path="device/samsung/tuna" name="CNA/android_device_samsung_tuna" remote="github" revision="jellybean" />
   <project path="device/ti/panda" name="CNA/android_device_ti_panda" remote="github" revision="jellybean" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
@@ -321,7 +321,7 @@
   <project path="system/security" name="platform/system/security" />
   <project path="system/vold" name="CNA/android_system_vold" remote="github" revision="jellybean" />
 
-  <!--<project path="packages/apps/SamsungServiceMode" name="CNA/android_packages_apps_SamsungServiceMode" remote="github" revision="jellybean" />-->
+  <project path="packages/apps/SamsungServiceMode" name="CNA/android_packages_apps_SamsungServiceMode" remote="github" revision="jellybean" />
   <project path="packages/apps/Torch" name="CNA/android_packages_apps_Torch" remote="github" revision="jellybean" />
   <project path="packages/apps/Trebuchet" name="CNA/android_packages_apps_Trebuchet" remote="github" revision="jellybean" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" remote="github" revision="jellybean" />
@@ -360,7 +360,7 @@
   <project path="kernel/sony/msm8660" name="CyanogenMod/android_kernel_sony_msm8660" remote="github" revision="jellybean" />
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="jellybean" />
 
-  <!--<project path="kernel/samsung/d2" name="CNA/android_kernel_samsung_d2" remote="github" revision="jellybean" />
-  <project path="kernel/samsung/smdk4412" name="CNA/android_kernel_samsung_smdk4412" remote="github" revision="jellybean" />-->
+  <project path="kernel/samsung/d2" name="CNA/android_kernel_samsung_d2" remote="github" revision="jellybean" />
+  <project path="kernel/samsung/smdk4412" name="CNA/android_kernel_samsung_smdk4412" remote="github" revision="jellybean" />
 
 </manifest>
