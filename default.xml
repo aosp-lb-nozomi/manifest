@@ -228,7 +228,6 @@
   <project path="packages/apps/Email" name="platform/packages/apps/Email" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
-<!-- <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.1.2_r1" /> -->
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" remote="aosp" revision="refs/tags/android-4.1.2_r1" />
@@ -340,7 +339,7 @@ this avoids merging conflicts from AOSP manifest
    <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" remote="cm" revision="jellybean" /> -->
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" remote="cm" revision="jellybean" />
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_Camera" remote="cm" revision="jellybean" />
-  <!--<project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="jellybean" />-->
+  <project path="packages/apps/Gallery2" name="CyanogenMod/android_packages_apps_Gallery2" remote="cm" revision="jellybean" />
 
 <!-- Supplicant from CM10 -->
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="cm" revision="jellybean" />
@@ -348,7 +347,7 @@ this avoids merging conflicts from AOSP manifest
 
 <!-- Frameworks -->
   <project path="frameworks/base" name="aosp-lb-nozomi/frameworks_base_aosp" remote="gh" revision="master" />
-  <project path="frameworks/av" name="mikegapinski/platform_frameworks_av" remote="gh" revision="jellybean" />
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="gh" revision="jellybean" />
   <project path="frameworks/native" name="aosp-lb-nozomi/frameworks_native" remote="cm" revision="polishblood-aosp" />
 
 <!-- We use hardware from CM 10 -->
