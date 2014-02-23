@@ -352,9 +352,9 @@
   <project path="system/core" name="MoKee/android_system_core" revision="refs/heads/jb_mkt" />
 
   <!-- Devices Paired -->
-  <project path="vendor/mk" name="aosp-lb-nozomi/android_vendor_mk" remote="gh" revision="refs/heads/jb_mkt" />
+  <project path="vendor/mk" name="aosp-lb-nozomi/android_vendor_mk" revision="refs/heads/jb_mkt" />
 
-  <project path="hardware/sony/dash" name="CyanogenMod/android_hardware_sony_DASH" remote="gh" revision="jellybean"/>
+  <project path="hardware/sony/dash" name="CyanogenMod/android_hardware_sony_DASH"  revision="jellybean"/>
 
   <project path="device/sony/nozomi" name="aosp-lb-nozomi/device_sony_nozomi" revision="mokee" />
   <project path="device/sony/aoba" name="aosp-lb-nozomi/device_sony_aoba" revision="mokee" />
