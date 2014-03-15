@@ -47,8 +47,6 @@
   <project path="external/v8" name="android_external_v8" remote="github" revision="jellybean-4.1.2"/>
   <project path="external/webkit" name="android_external_webkit" remote="github" revision="jellybean-4.1.2"/>
   <project path="external/webrtc" name="android_external_webrtc" remote="github" revision="jellybean-4.1.2"/>
-  <project path="external/wpa_supplicant_6" name="android_external_wpa_supplicant_6" remote="github" revision="jellybean-4.1.2"/>
-  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="github" revision="jellybean-4.1.2"/>
   <project path="external/yaffs2" name="android_external_yaffs2" remote="github" revision="jellybean-4.1.2"/>
   <project path="external/zlib" name="android_external_zlib" remote="github" revision="jellybean"/>
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="gh" revision="jellybean-4.1.2"/>
