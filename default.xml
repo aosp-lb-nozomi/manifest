@@ -49,7 +49,7 @@
   <project path="external/webrtc" name="android_external_webrtc" remote="github" revision="jellybean-4.1.2"/>
   <project path="external/yaffs2" name="android_external_yaffs2" remote="github" revision="jellybean-4.1.2"/>
   <project path="external/zlib" name="android_external_zlib" remote="github" revision="jellybean"/>
-  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="gh" revision="jellybean-4.1.2"/>
+  <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" remote="gh" revision="jellybean"/>
   <project path="frameworks/base" name="aosp-lb-nozomi/android_frameworks_base" remote="gh" revision="jellybean-4.1.2"/>
   <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" remote="gh" revision="jellybean"/>
   <project path="frameworks/rs" name="android_frameworks_rs" remote="github" revision="jellybean-4.1.2"/>
