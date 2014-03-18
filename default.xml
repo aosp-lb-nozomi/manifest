@@ -245,6 +245,7 @@
   <project groups="default" name="CyanogenMod/android_packages_apps_LegacyCamera" path="packages/apps/LegacyCamera" />
   <project groups="default" name="CyanogenMod/android_packages_apps_Music" path="packages/apps/Music" />
   <project groups="default" name="CyanogenMod/android_packages_apps_MusicFX" path="packages/apps/MusicFX" />
+  <project groups="default" name="CyanogenMod/android_packages_apps_Mms" path="packages/apps/Mms" />
   <project groups="default" name="CyanogenMod/android_packages_apps_Nfc" path="packages/apps/Nfc" />
   <project groups="default" name="CyanogenMod/android_packages_apps_PackageInstaller" path="packages/apps/PackageInstaller" />
   <project groups="default" name="CyanogenMod/android_packages_apps_Protips" path="packages/apps/Protips" />
@@ -334,7 +335,6 @@
   <project groups="default" name="aosp-lb-nozomi/frameworks_base_pac" path="frameworks/base" />
   <project groups="default" name="PAC-man/android_packages_apps_Contacts" path="packages/apps/Contacts" />
   <project groups="default" name="PAC-man/android_packages_apps_Phone" path="packages/apps/Phone" />
-  <project groups="default" name="PAC-man/android_packages_apps_Mms" path="packages/apps/Mms" />
   <project groups="default" name="PAC-man/android_packages_apps_Settings" path="packages/apps/Settings" />
   <project groups="default" name="PAC-man/android_packages_providers_ContactsProvider" path="packages/providers/ContactsProvider" />
   <project groups="default" name="aosp-lb-nozomi/vendor_pac" path="vendor/pac" />
