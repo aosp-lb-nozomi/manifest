@@ -7,9 +7,9 @@
   <remote  name="github"
            fetch=".." />
 
-  <default revision="refs/tags/android-4.1.2_r1"
+  <default revision="refs/tags/android-4.1.1_r6"
            remote="aosp"
-           sync-j="4" />
+           sync-j="8" />
 
   <project path="build" name="CNA/android_build" remote="github" revision="jellybean">
     <copyfile src="core/root.mk" dest="Makefile" />
